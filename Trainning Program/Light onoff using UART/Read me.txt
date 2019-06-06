@@ -1,0 +1,10 @@
+Connect to serial to Uart converter.
+TTL;
+1)TTL Rx connected to 1768 Tx
+    Tx connected to 1768 Rx
+
+
+2)open arduino and select the COM port
+
+
+3)Open Serial Monitor and write 'a' and 'b'
